@@ -1,0 +1,27 @@
+v 1.0
+
+ First stable version of 3072.
+
+ 2048 grid changed to 6x6.
+
+ Random tiles changed to 2's and 3's with probability .5.
+
+ Win condition changed so a tile equal to or over 2048 wins.
+
+ Colors changed to be more visible and better looking, imo.
+
+v 1.1
+ 
+ Probabilities changed: should be 60% 2's, 12% 4's, 22.4% 3's, 5.6% 6's now. Testing is needed to find a good balance.
+
+ "P" key now moves tiles a random direction. You can lose quickly by mashing it.
+
+v 2.0
+
+ Twitter button removed.
+
+ Added diaganals. Now QWEADZXC move tiles in the direction from S that they are.
+
+ Removed "R" for restart. Too easy to hit while aiming for "E"
+
+ 
